@@ -2,7 +2,7 @@
 <?php
 for
 
-?>
+?>;
 <h1>Ukol B:<h1>
 
 <h1>Ukol C:<h1>
